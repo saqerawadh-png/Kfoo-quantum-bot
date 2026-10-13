@@ -1,0 +1,5 @@
+Text 
+
+requests 
+numpy 
+scikit-learn
